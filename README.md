@@ -1,4 +1,4 @@
-# <div align="center"> 🌎 Hi! I'm Samuel Perez Tovar 👋</div>
+# <div align="center"> 🌎 Hello! I'm Samuel Perez Tovar. 👋</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Always+Learning&font=Fira%20Code&center=true&width=380&height=50">
