@@ -1,10 +1,9 @@
 # <div align="center"> 🌎 Hello! I'm Samuel Perez Tovar. 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Always+Learning&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Always+Learning&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
-<br>
 
 <div align="center">
   
